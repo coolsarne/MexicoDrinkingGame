@@ -1,0 +1,116 @@
+/* Start View */
+.mexenTitel {
+    -fx-text-fill: black;
+    -fx-font-size: 48;
+    -fx-font-weight: bold;
+    -fx-alignment: center;
+    -fx-padding: 0 0 50 0;
+}
+
+.lblHighscoresTitel {
+    -fx-font-size: 16;
+    -fx-font-weight: bold;
+    -fx-padding: 0 0 5 0;
+}
+
+/* Instellingen View */
+.lbInstellingen {
+    -fx-font-size: 16;
+    -fx-font-weight: bold;
+    -fx-padding: 0 0 10 0;
+}
+
+.toggle-button {
+    -fx-background-color: inherit;
+}
+
+.toggle-button {
+    -fx-border-color: rgba(255, 255, 255, 0.0);
+    -fx-background-color: rgba(255, 255, 255, 0.0);
+    -fx-border-width: 2;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+
+.toggle-button:selected {
+    -fx-background-color: #E5E5E5;
+    -fx-border-color: #BFBFBF;
+}
+
+.toggle-button:hover {
+    -fx-border-color: #BFBFBF;
+    -fx-cursor: hand;
+}
+
+.button {
+    -fx-background-color: #03C04A;
+    -fx-text-fill: #FFFFFF;
+    -fx-font-size: 24;
+    -fx-font-weight: bold;
+    -fx-border-color: #0E6B0E;
+    -fx-border-width: 2;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+
+.button:hover {
+    -fx-background-color: #02AC42;
+    -fx-cursor: hand;
+}
+
+.button:disabled {
+    -fx-background-color: #E5E5E5;
+    -fx-border-color: #BFBFBF;
+    -fx-cursor: default;
+    -fx-text-fill: black;
+}
+
+.textfield{
+    -fx-background-color: #E5E5E5;
+    -fx-alignment: center;
+    -fx-font-size: 16;
+    -fx-border-color: #BFBFBF;
+    -fx-border-width: 2;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
+
+.textfield:hover{
+    -fx-cursor: text;
+}
+
+/* Spel View */
+
+.vbSpeler {
+    -fx-background-color: rgba(255, 255, 255, 0.0);
+    -fx-border-color: rgba(255, 255, 255, 0.0);
+    -fx-border-width: 2;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+    -fx-padding: 20;
+}
+
+.vbActieveSpeler {
+    -fx-background-color: #E5E5E5;
+    -fx-border-color: #BFBFBF;
+    -fx-font-weight: bold;
+}
+
+.vbInfo {
+    -fx-background-color: #E5E5E5;
+    -fx-border-color: #BFBFBF;
+    -fx-border-width: 2;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10
+}
+
+.lblCommunicatie {
+    -fx-background-color: #E5E5E5;
+    -fx-alignment: center;
+    -fx-font-size: 34;
+    -fx-label-padding: 0,20;
+    -fx-border-color: #BFBFBF;
+    -fx-border-width: 2;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}

@@ -1,0 +1,10 @@
+Het spel wordt gespeeld met twee dobbelstenen die tegelijkertijd gegooid worden. De eerste speler bepaalt hoe vaak er gegooid mag worden, met een maximum van drie keer. Wanneer de eerste spelerbijvoorbeeld na twee keer gooien tevreden is met zijn score, dan mogen de overige spelers ook maar 2 keer gooien. Het laatste aantal gegooide ogen telt, niet de hoogste score. Nadat iedereen gegooid heeft wordt er gekeken wie er het laagste aantal punten heeft. Deze persoon moet het glas ‘ad fundum’ leegdrinken. Deze persoon mag de volgende ronde beginnen met werpen. 
+
+De waarden die kunnen gegooid worden:
+1. Bij twee ongelijke cijfers telt het hoogste cijfer als tiental: een 4 en een 6 is dus 64.
+2. Twee gelijke cijfers telt als honderdtal: een 5 en nog een 5 is dus 500.
+3. Een 1 en een 2 is een mex; dat is de hoogst mogelijke waarde. Als iemand een mex heeft gegooid, dan betekent dit dat de verliezer van deze ronde een extra ‘ad fundum’ moet drinken.
+4. Alle mogelijke waarden van de ogen (links is minst, rechts is meest):31, 32, 41, 42, 43, 51, 52, 53, 54, 61, 62, 63, 64, 65, 11, 22, 33, 44, 55, 66, 21 (=mex)
+
+Wanneer een speler in een beurt een 1 of een 2 gooit, mag hij deze laten liggen en met de andere dobbelsteen proberen mexte vormen. Dit geldt gewoon als een worp.Een speler mag de 1 of 2 maar éénkeer laten liggen. Een eventuele derde worp moet dus weer met twee dobbelstenen gegooid worden.
+Als er 2 spelers zijn die beide de laagste waarde hebben, dan komt er een 'play off'. Beide spelers mogen 1x gooien, wie het laagst gooit is de verliezer van de ronde.
